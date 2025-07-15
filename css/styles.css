@@ -6,7 +6,7 @@
 
 /* custom properties,update these based on your design*/
 :root{
-    --ff-primary: 'Source Sans Pro', sans-serif;
+    --ff-primary: "Roboto", sans-serif;
     --ff-secondary: 'Source Code Pro', monospace ;
 
     --fw-reg :300;
@@ -14,7 +14,7 @@
 
     --clr-light: #fff;
     --clr-dark: #303030;
-    --clr-accent: #E2A3B4;
+    --clr-accent: #a474e2;
 
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -588,4 +588,9 @@ header{
 
 .portfolio-images {
    margin: 20px;
+}
+
+.demo-account {
+    text-decoration: none;
+    margin-bottom: 15px;
 }
